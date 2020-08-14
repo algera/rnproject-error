@@ -27,10 +27,6 @@ class ViewController: UIViewController {
             launchOptions: nil
         )
         self.view = rootView
-        //let vc = UIViewController()
-        //vc.view = rootView
-        //self.present(vc, animated: true, completion: nil)
-        // Do any additional setup after loading the view.
     }
 
 
